@@ -1,0 +1,1 @@
+# smtp-plugin-mockup-html
